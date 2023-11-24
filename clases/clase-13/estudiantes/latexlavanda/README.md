@@ -1,4 +1,14 @@
-# style transfer
+### Materiales
+- Internet
+- Aceptación
+- Computador
+- Cámara
+- Dataset (kaggle) de retratos
+- Google Collab
+- Tensorflow
+- Imgur
+
+# Style Transfer
 
 ejemplo https://www.youtube.com/watch?v=S_I0SGAO73A
 
@@ -38,9 +48,15 @@ https://colab.research.google.com/drive/1TZNdhoUEBoxQqY5EFloZcuyYUs9oNQ-g?usp=sh
 base de datos:
 https://www.kaggle.com/datasets/karnikakapoor/art-portraits/
 
-### Objetivo: Lograr que funcione Style Transfer
-
+# Objetivo: Lograr que funcione Style Transfer
+### Proceso
 ![image](https://github.com/latexlavanda/audiv027-2023-2/assets/142627713/5290e52d-eb1f-4a74-a032-226762fd9f80)
+
+- Código va al Google Collab
+- Se comprueban los pasos, uno por uno
+- Una vez probadas la imágenes de ejemplo, se prueban los formatos de las aplicadas
+- Subir el dataset a una carpeta en imgur para obtener url por imagen
+- Jugar
 
 https://colab.research.google.com/drive/1vgZSMThTciHcasiIZBirbMvxXrQNrJeJ?usp=sharing
 
